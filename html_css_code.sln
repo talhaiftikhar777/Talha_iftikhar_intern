@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "html_css_code", "html_css_code\html_css_code.pyproj", "{ED05A31A-C8AC-4AA4-BAF9-5F4C1B04553D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED05A31A-C8AC-4AA4-BAF9-5F4C1B04553D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED05A31A-C8AC-4AA4-BAF9-5F4C1B04553D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76F128A1-B983-4610-8599-77A3A581087F}
+	EndGlobalSection
+EndGlobal
